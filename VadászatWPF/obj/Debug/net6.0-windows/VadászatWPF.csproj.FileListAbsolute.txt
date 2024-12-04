@@ -1,0 +1,138 @@
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\App.g.cs
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF_MarkupCompile.cache
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.exe
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.deps.json
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.runtimeconfig.json
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.dll
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.pdb
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.g.resources
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfoInputs.cache
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfo.cs
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CoreCompileInputs.cache
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.dll
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\refint\VadászatWPF.dll
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.pdb
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.genruntimeconfig.cache
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\ref\VadászatWPF.dll
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.dll
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.pdb
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.AssemblyReference.cache
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.baml
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CopyComplete
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.exe
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.deps.json
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.runtimeconfig.json
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.dll
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.pdb
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.dll
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.pdb
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.AssemblyReference.cache
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF_MarkupCompile.cache
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.g.resources
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfoInputs.cache
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfo.cs
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CopyComplete
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.dll
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\refint\VadászatWPF.dll
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.pdb
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.genruntimeconfig.cache
+C:\Users\Marci\Desktop\3. félév\EVA\georg\VadászatWPF\obj\Debug\net6.0-windows\ref\VadászatWPF.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.exe
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.deps.json
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.runtimeconfig.json
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.pdb
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.pdb
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.AssemblyReference.cache
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.baml
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\App.g.cs
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF_MarkupCompile.cache
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.g.resources
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfoInputs.cache
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfo.cs
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CoreCompileInputs.cache
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CopyComplete
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\refint\VadászatWPF.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.pdb
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.genruntimeconfig.cache
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\VadászatWPF\obj\Debug\net6.0-windows\ref\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.exe
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.deps.json
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.runtimeconfig.json
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.pdb
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.AssemblyReference.cache
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF_MarkupCompile.cache
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.g.resources
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfoInputs.cache
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfo.cs
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CoreCompileInputs.cache
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CopyComplete
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\refint\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.pdb
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.genruntimeconfig.cache
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\VadászatWPF\obj\Debug\net6.0-windows\ref\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.exe
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.deps.json
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.runtimeconfig.json
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.pdb
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.AssemblyReference.cache
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF_MarkupCompile.cache
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.g.resources
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfoInputs.cache
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfo.cs
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CoreCompileInputs.cache
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CopyComplete
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\refint\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.pdb
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.genruntimeconfig.cache
+C:\Users\nagyd\OneDrive\Képek\aknaproject\VadászatWPF\obj\Debug\net6.0-windows\ref\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.exe
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.deps.json
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.runtimeconfig.json
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\bin\Debug\net6.0-windows\VadászatWPF.pdb
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\bin\Debug\net6.0-windows\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.AssemblyReference.cache
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF_MarkupCompile.cache
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.g.resources
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfoInputs.cache
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.AssemblyInfo.cs
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CoreCompileInputs.cache
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.csproj.CopyComplete
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\refint\VadászatWPF.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.pdb
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\VadászatWPF.genruntimeconfig.cache
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\VadászatWPF\obj\Debug\net6.0-windows\ref\VadászatWPF.dll

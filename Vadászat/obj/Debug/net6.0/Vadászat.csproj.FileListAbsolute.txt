@@ -1,0 +1,69 @@
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\bin\Debug\net6.0\Vadászat.deps.json
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\bin\Debug\net6.0\Vadászat.dll
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\bin\Debug\net6.0\Vadászat.pdb
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\obj\Debug\net6.0\Vadászat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfoInputs.cache
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfo.cs
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\obj\Debug\net6.0\Vadászat.csproj.CoreCompileInputs.cache
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\obj\Debug\net6.0\Vadászat.dll
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\obj\Debug\net6.0\refint\Vadászat.dll
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\obj\Debug\net6.0\Vadászat.pdb
+D:\Kerényi Gergő\Documents\Visual Studio 2022\Projects\VadászatWPF\Vadászat\obj\Debug\net6.0\ref\Vadászat.dll
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\bin\Debug\net6.0\Vadászat.deps.json
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\bin\Debug\net6.0\Vadászat.dll
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\bin\Debug\net6.0\Vadászat.pdb
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\Vadászat.csproj.AssemblyReference.cache
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\Vadászat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfoInputs.cache
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfo.cs
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\Vadászat.csproj.CoreCompileInputs.cache
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\Vadászat.dll
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\refint\Vadászat.dll
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\Vadászat.pdb
+C:\Users\Marci\Desktop\3. félév\EVA\georg\Vadászat\obj\Debug\net6.0\ref\Vadászat.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\bin\Debug\net6.0\Vadászat.deps.json
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\bin\Debug\net6.0\Vadászat.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\bin\Debug\net6.0\Vadászat.pdb
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\obj\Debug\net6.0\Vadászat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfoInputs.cache
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfo.cs
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\obj\Debug\net6.0\Vadászat.csproj.CoreCompileInputs.cache
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\obj\Debug\net6.0\Vadászat.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\obj\Debug\net6.0\refint\Vadászat.dll
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\obj\Debug\net6.0\Vadászat.pdb
+D:\Kerényi Gergő\Desktop\EVA2beadando\Vegleges\Vadászat\obj\Debug\net6.0\ref\Vadászat.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\bin\Debug\net6.0\Vadászat.deps.json
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\bin\Debug\net6.0\Vadászat.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\bin\Debug\net6.0\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\Vadászat.csproj.AssemblyReference.cache
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\Vadászat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfoInputs.cache
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfo.cs
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\Vadászat.csproj.CoreCompileInputs.cache
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\Vadászat.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\refint\Vadászat.dll
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Dokumentumok\Beadandók\Vadászat\obj\Debug\net6.0\ref\Vadászat.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\bin\Debug\net6.0\Vadászat.deps.json
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\bin\Debug\net6.0\Vadászat.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\bin\Debug\net6.0\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\Vadászat.csproj.AssemblyReference.cache
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\Vadászat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfoInputs.cache
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfo.cs
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\Vadászat.csproj.CoreCompileInputs.cache
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\Vadászat.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\refint\Vadászat.dll
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Képek\aknaproject\Vadászat\obj\Debug\net6.0\ref\Vadászat.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\bin\Debug\net6.0\Vadászat.deps.json
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\bin\Debug\net6.0\Vadászat.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\bin\Debug\net6.0\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\obj\Debug\net6.0\Vadászat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfoInputs.cache
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\obj\Debug\net6.0\Vadászat.AssemblyInfo.cs
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\obj\Debug\net6.0\Vadászat.csproj.CoreCompileInputs.cache
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\obj\Debug\net6.0\Vadászat.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\obj\Debug\net6.0\refint\Vadászat.dll
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\obj\Debug\net6.0\Vadászat.pdb
+C:\Users\nagyd\OneDrive\Asztali gép\TestResults-2\Vadászat\obj\Debug\net6.0\ref\Vadászat.dll

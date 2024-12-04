@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cnqxl4l8B05dHJD+HE6B06PbpHC5LH/X+qd7YVLfuEfIaEjKK5B0pBShbrJBDFUXiUFQnow1Yifh94mlBxvUNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nagyd\\OneDrive\\Asztali gép\\TestResults-2\\Vadászat\\Vadászat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nagyd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nagyd\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\nagyd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

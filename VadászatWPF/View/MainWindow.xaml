@@ -1,0 +1,64 @@
+﻿<Window x:Class="VadászatWPF.MainWindow"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            
+            Title="Akna" Height="1000" Width="1000">
+
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="Menu">
+                <MenuItem Header="Mentés" Command="{Binding SaveGameCommand}"></MenuItem>
+                <MenuItem Header="Betöltés" Command="{Binding LoadGameCommand}"></MenuItem>
+                <MenuItem Header="Pályaméret">
+                    <MenuItem Header="6x6" Command="{Binding Newgame6}"></MenuItem>
+                    <MenuItem Header="10x10" Command="{Binding Newgame10}"></MenuItem>
+                        <MenuItem Header="16x16" Command="{Binding Newgame16}"></MenuItem>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <ItemsControl Grid.Row="1" ItemsSource="{Binding Fields}">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Rows="{Binding MapSize}" Columns="{Binding MapSize}" />
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+            <ItemsControl.ItemTemplate>
+                <!--az elemek gombok lesznek-->
+                <DataTemplate>
+                    <Button Command="{Binding ButtonClick}" CommandParameter="{Binding XY}" Content="{Binding Text}">
+                        <!-- gomb háttérszíne -->
+                        <!-- gomb háttérszíne -->
+                        <Button.Style>
+                            <!-- gomb stílusa, ahol a színét megadjuk -->
+                            <Style TargetType="Button" >
+                                <Style.Triggers>
+                                    <!-- a szín egy adatkötés hatására fog változni-->
+                                    <DataTrigger Binding="{Binding IsHidden}" Value="1">
+                                        <Setter Property="Background" Value="Black" />
+                                    </DataTrigger>
+                                    <DataTrigger Binding="{Binding IsHidden}" Value="2">
+                                        <Setter Property="Background" Value="White" />
+                                    </DataTrigger>
+                                    <DataTrigger Binding="{Binding IsHidden}" Value="3">
+                                        <Setter Property="Background" Value="Gray" />
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+
+        
+    </Grid>
+</Window>
